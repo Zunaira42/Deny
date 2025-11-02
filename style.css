@@ -503,7 +503,7 @@ body {
     font-weight: 500;
 }
 
- #team-slider {
+#team-slider {
     background-color: #1a1f24;
     color: #fff;
 }
@@ -850,8 +850,8 @@ body {
     }
 
     #security-nav .navbar-nav .nav-link {
-        padding: 12px 25px;
-        font-size: 13px;
+        padding: 12px 10px;
+        font-size: 12px;
     }
 
     #trust .sub-header {
@@ -931,7 +931,10 @@ body {
 
     }
 
-    #hero .heading,
+    #hero .heading {
+        font-size: 30px;
+    }
+
     #security-nav .over-heading,
     #security-nav .sm-large {
 
@@ -1053,6 +1056,14 @@ body {
 
     .menu-toggle.active .bar:nth-child(3) {
         transform: rotate(-45deg) translateY(-8px);
+    }
+
+    #footer .bi-linkedin {
+        font-size: 20px;
+    }
+
+    #footer .bi-instagram {
+        font-size: 20px;
     }
 }
 
