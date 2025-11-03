@@ -821,6 +821,7 @@ body {
 
 /* mobile */
 @media (max-width: 767.98px) {
+
     #footer .footer-header {
         margin: 0%;
         padding: 0px 35px;
