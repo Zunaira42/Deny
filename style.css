@@ -1021,7 +1021,7 @@ body {
 
 @media (max-width: 768px) {
     .navbar {
-        padding: 15px 30px;
+        padding: 15px 10px;
     }
 
     .nav-links {
@@ -1065,6 +1065,13 @@ body {
     #footer .bi-instagram {
         font-size: 20px;
     }
+    
+#hero .explore-btn,
+#hero .read-btn {
+    padding: 18px 10px;
+}
+
+
 }
 
 .cta-btn:hover,
